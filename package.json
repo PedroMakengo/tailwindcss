@@ -1,23 +1,19 @@
 {
-  "name": "tailwindcss",
+  "name": "curso-tailwindcss",
   "version": "1.0.0",
-  "description": "Fazendo um curso completo de tailwindcss, adquirindo o máximo conhecimento deste curso.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PedroMakengo/tailwindcss.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PedroMakengo/tailwindcss/issues"
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
   },
-  "homepage": "https://github.com/PedroMakengo/tailwindcss#readme",
   "dependencies": {
-    "tailwindcss": "^3.2.4"
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31"
   }
 }
